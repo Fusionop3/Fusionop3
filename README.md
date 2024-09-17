@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vineet
-- 👀 I’m interested in Development and Networking
+- 👀 I’m interested in App Development,Networking and Cloud Computing
 - 🌱 I’m currently learning Btech in CSE
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
