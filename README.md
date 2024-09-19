@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Coder GIF" width="400" />
+  <img src="https://media.giphy.com/media/VxT64M8NU6arEVuOH2/giphy.gif" alt="Coder GIF" width="150" />
 </p>
 
 Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
