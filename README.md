@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-![Welcome Image](https://user-images.githubusercontent.com/122604807/114446095-e0ec8c00-9bcb-11eb-8c78-e4362ed5c3f3.gif) <!-- Coding-related GIF -->
+![Welcome Image](https://www.lambdatest.com/resources/images/news24.gif) <!-- Coding-related GIF -->
 
 ## 🌟 Current Focus
 
