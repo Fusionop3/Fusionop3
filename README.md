@@ -1,8 +1,8 @@
-# 👋 Hi, I'm Vineet Kumar 
+# 👋 Hi, I'm Vineet Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
 
-![Minimalist Banner](https://user-images.githubusercontent.com/yourusername/yourrepo/banner.png) <!-- Replace this with your custom banner -->
+![Minimalist Banner](https://user-images.githubusercontent.com/Fusionop3/yourrepo/banner.png) <!-- Replace this with your custom banner -->
 
 ---
 
@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions A
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&layout=compact&theme=light"/>
 </p>
 
 ---
@@ -55,7 +55,3 @@ Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions A
 - LinkedIn: [Your LinkedIn](#)
 - Twitter: [Your Twitter](#)
 - Portfolio: [Your Portfolio](#)
-
----
-
-![Footer](https://user-images.githubusercontent.com/yourusername/yourrepo/footer.png) <!-- Replace with your custom footer image -->
