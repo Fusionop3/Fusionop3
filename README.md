@@ -3,10 +3,12 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VxT64M8NU6arEVuOH2/giphy.gif" alt="Coder GIF" width="150" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="150" />
 </p>
 
-<h3 align="center">Welcome to Vineet's Universe 🚀</h3>
+<h3 align="center">
+  Welcome to Vineet's Universe 🚀
+</h3>
 
 <p align="center">
   Hi 👋, I'm Vineet Kumar<br>
