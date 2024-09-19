@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 - **Amazon Web Services**: Currently diving deep into AWS solutions and certifications.
 - **Android Development**: Developing Android apps. 
 - **Learning Docker & Kubernetes**: Expanding my skills in containerization and orchestration.
+- **DSA**:Data Structures and Algorithm.
 
 ## 💻 Skills & Technologies
 
