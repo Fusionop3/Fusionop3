@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-![Welcome Image](https://via.placeholder.com/800x400) <!-- Replace with your image or GIF URL -->
+![Coder Image](https://www.pngkey.com/png/detail/114-1148955_developer-programmer-computer-coder-coding-person-working-on-computer.png) <!-- Coder image -->
 
 ## 🌟 Current Focus
 
@@ -39,3 +39,4 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 - [GitHub](https://github.com/Fusionop3)
 
 Feel free to explore my repositories and connect with me!
+
