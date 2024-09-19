@@ -20,14 +20,6 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 🚀 Featured Projects
-
-### [FoodIndia](https://github.com/Fusionop3/FoodIndia)
-<!-- Replace with a GIF related to your project if you have one -->
-
-### Simple Calculator App
-<!-- Replace with a GIF related to your project if you have one -->
-
 ## 📚 Learning Journey
 
 - AWS Solutions Architect
