@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Vineet Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
+Welcome to my GitHub profile! I'm a developer passionate about **AWS AND CLOUD TECHNOLOGIES** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
 
-![Minimalist Banner](https://user-images.githubusercontent.com/Fusionop3/yourrepo/banner.png) <!-- Replace this with your custom banner -->
+(https://user-images.githubusercontent.com/Fusionop3/yourrepo/banner.png) <!-- Replace this with your custom banner -->
 
 ---
 
