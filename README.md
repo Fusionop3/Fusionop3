@@ -24,6 +24,7 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 
 - AWS Solutions Architect
 - Docker & Kubernetes
+- Android Development
 
 ## 📊 My GitHub Stats
 
