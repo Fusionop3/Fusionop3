@@ -1,37 +1,39 @@
-# Hi there, I'm Vineet Kumar 👋
+# Hi, I'm Vineet Kumar 👋
 
-Welcome to my GitHub profile! I’m an engineering student passionate about app development and cloud technologies. I’m currently focused on mastering cloud-native application development and exploring the latest trends in mobile app development.
+Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-!Coder
+## 🌟 Current Focus
 
-## 🔧 Skills
-- **Programming Languages:** C++, JavaScript !C++ !JavaScript
-- **Web Technologies:** HTML, CSS !HTML !CSS
-- **Cloud Platforms:** AWS !AWS
-- **Tools:** Docker, Kubernetes !Docker !Kubernetes
-- **Frameworks:** Android Development !Android
+- **Android Development**: Developing a simple calculator app.
+- **AWS Solutions Architect**: Currently diving deep into AWS solutions and certifications.
+- **Learning Docker & Kubernetes**: Expanding my skills in containerization and orchestration.
 
-## 🚀 Repositories
-Here are some of my notable projects:
-- **FoodIndia:** A website showcasing various Indian foods built using HTML and CSS, aimed at promoting regional cuisines.
-- **Simple Calculator:** An Android app for basic arithmetic operations, developed to enhance my skills in mobile app development.
+## 💻 Skills & Technologies
 
-## 🌐 Connect with me
-- LinkedIn
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+## 🚀 Featured Projects
 
-**GitHub Stats:**
+### [FoodIndia](https://github.com/Fusionop3/FoodIndia)
+![FoodIndia GIF](https://media.giphy.com/media/3o7buirYVeKHysD0CQ/giphy.gif) <!-- Replace with a GIF related to your project -->
 
-!Vineet's GitHub Stats
+### Simple Calculator App
+![Calculator GIF](https://media.giphy.com/media/26FgfS2cfKTMxSUSs/giphy.gif) <!-- Replace with a GIF related to your project -->
 
-**Top Languages:**
+## 📚 Learning Journey
 
-!Languages
+- AWS Solutions Architect
+- Docker & Kubernetes
 
-**GitHub Streak:**
+## 📫 Get in Touch
 
-!GitHub Streak
+- [LinkedIn](https://www.linkedin.com/in/vineet-kumar-44b724327)
+- [GitHub](https://github.com/Fusionop3)
 
-## Fun Fact
-I love experimenting with new recipes in my free time!
+Feel free to explore my repositories and connect with me!
