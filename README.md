@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
 
-![Minimalist Banner](https://user-images.githubusercontent.com/Fusionop3/yourrepo/banner.png) <!-- Replace this with your custom banner -->
+![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) <!-- Replace this with your custom banner -->
 
 ---
 
