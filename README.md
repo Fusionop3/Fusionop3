@@ -1,48 +1,52 @@
-# 👋 Hi, I'm Vineet Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 👋 Hi, I'm Vineet Kumar 
 
-Welcome to my GitHub profile! I'm a passionate developer and student, currently focused on **AWS Solutions Architect** and **Android Development**. I enjoy building apps, solving DSA problems, and exploring cloud technologies.
+Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
 
-![Coder GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Minimalist Banner](https://user-images.githubusercontent.com/yourusername/yourrepo/banner.png) <!-- Replace this with your custom banner -->
 
 ---
 
 ### 🔭 Current Focus
 
 - **AWS Solutions Architect**: Preparing for certification and working on real-world cloud projects.
-- **Android Development**: Developing apps using Kotlin/Java. Current project: [Simple Calculator](#).
-- **DSA in C++**: Solving problems to sharpen problem-solving skills.
+- **Android Development**: Developing apps using Kotlin/Java. 
+- **DSA in C++**: Solving algorithmic problems to enhance my coding skills.
 
 ---
 
 ### 🛠️ Skills & Technologies
 
-![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-- **Languages**: C++, Java, Python
-- **Cloud**: AWS (IAM, EC2, S3, etc.)
-- **Web Development**: HTML, CSS, JavaScript
-- **Mobile Development**: Android (Java/Kotlin)
-- **Version Control**: Git, GitHub
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ### 🌱 Learning Journey
 
-![Learning GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200px">
+</p>
 
 - Diving deep into **AWS Solutions Architect**.
-- Strengthening **Android Development** with complex projects.
-- Expanding my **DSA** knowledge and contributing to open-source.
+- Building complex **Android apps** using best practices.
+- Continuing to solve **DSA** problems in C++.
 
 ---
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light"/>
+</p>
 
 ---
 
@@ -54,4 +58,4 @@ Welcome to my GitHub profile! I'm a passionate developer and student, currently 
 
 ---
 
-![Footer GIF](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+![Footer](https://user-images.githubusercontent.com/yourusername/yourrepo/footer.png) <!-- Replace with your custom footer image -->
