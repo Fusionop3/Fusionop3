@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an engineering student passionate about app development and cloud technologies.
 
-![Coder](https://cdn.pixabay.com/photo/2017/08/30/01/51/programmer-2692514_960_720.jpg)
+![Coder](https://images.unsplash.com/photo-1533757153707-2a5776c8d85a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvY2NvZGVyfGVufDF8fDE2MzM2MTkwOTk&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## 🔧 Skills
 - **Programming Languages:** C++, JavaScript
