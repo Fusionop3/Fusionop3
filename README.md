@@ -21,10 +21,10 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 ## 🚀 Featured Projects
 
 ### [FoodIndia](https://github.com/Fusionop3/FoodIndia)
-![FoodIndia GIF](https://media.giphy.com/media/3o7buirYVeKHysD0CQ/giphy.gif) <!-- Replace with a GIF related to your project -->
+<!-- Replace with a GIF related to your project if you have one -->
 
 ### Simple Calculator App
-![Calculator GIF](https://media.giphy.com/media/26FgfS2cfKTMxSUSs/giphy.gif) <!-- Replace with a GIF related to your project -->
+<!-- Replace with a GIF related to your project if you have one -->
 
 ## 📚 Learning Journey
 
