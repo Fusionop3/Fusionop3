@@ -25,6 +25,11 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 - AWS Solutions Architect
 - Docker & Kubernetes
 
+## 📊 My GitHub Stats
+
+![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&theme=radical&layout=compact)
+
 ## 📫 Get in Touch
 
 - [LinkedIn](https://www.linkedin.com/in/vineet-kumar-44b724327)
