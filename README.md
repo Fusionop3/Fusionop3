@@ -6,46 +6,73 @@
   <img src="https://media.giphy.com/media/VxT64M8NU6arEVuOH2/giphy.gif" alt="Coder GIF" width="150" />
 </p>
 
-Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions Architect** and **Android Development**. I enjoy working on cloud solutions, building apps, and solving DSA problems.
+<h3 align="center">Welcome to Vineet's Universe 🚀</h3>
+
+<p align="center">
+  Hi 👋, I'm Vineet Kumar<br>
+  A Passionate Developer from India
+</p>
+
+<p align="center">
+  6 followers · 9 following<br>
+  India, Earth
+</p>
 
 ---
 
-### 🔭 Current Focus
+### 💫 About Me
 
-- **AWS Solutions Architect**: Preparing for certification and working on real-world cloud projects.
-- **Android Development**: Developing apps using Kotlin/Java. 
-- **DSA in C++**: Solving algorithmic problems to enhance my coding skills.
+- 🌱 I’m Currently Learning **AWS Solutions Architect** and **Android Development**
+- 💬 Ask Me About **C++, Java, Kotlin, HTML, CSS, AWS**
+- 📫 How To Reach Me: [vineetkumar@example.com](mailto:vineetkumar@example.com)
+- ⚡ Coding Can “Power Up” Your Brain
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🌐 Socials
 
-<p align="left">
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vineet-kumar/)
+- Twitter: [Your Twitter](#)
+- Portfolio: [Your Portfolio](#)
+
+---
+
+### 🛠️ Languages and Tools
+
+**Programming Languages:**
+<p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
----
-
-### 🌱 Learning Journey
-
+**Web Technologies:**
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="200px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-- Diving deep into **AWS Solutions Architect**.
-- Building complex **Android apps** using best practices.
-- Continuing to solve **DSA** problems in C++.
+**Databases:**
+<p align="center">
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+**Tools and Platforms:**
+<p align="center">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&theme=light"/>
@@ -56,6 +83,6 @@ Welcome to my GitHub profile! I'm a developer passionate about **AWS Solutions A
 
 ### 🤝 Connect with Me
 
-- LinkedIn: [Your LinkedIn](#)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/vineet-kumar/)
 - Twitter: [Your Twitter](#)
 - Portfolio: [Your Portfolio](#)
