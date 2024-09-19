@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-![Welcome Image](https://media.giphy.com/media/xT0B0aUxJhshYvNTyo/giphy.gif)
+![Welcome Image](https://media.giphy.com/media/3o6Zt6zHyNa4J8UJ1i/giphy.gif) <!-- Coder GIF -->
 
 ## 🌟 Current Focus
 
