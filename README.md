@@ -31,4 +31,4 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 
 ![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&theme=radical&layout=compact)
-![Stars](https://img.shields.io/github/stars/Fusionop3?style=for-the-badge&label=Stars)
+
