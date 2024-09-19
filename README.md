@@ -1,34 +1,37 @@
 # Hi there, I'm Vineet Kumar 👋
 
-Welcome to my GitHub profile! I’m an engineering student passionate about app development and cloud technologies.
+Welcome to my GitHub profile! I’m an engineering student passionate about app development and cloud technologies. I’m currently focused on mastering cloud-native application development and exploring the latest trends in mobile app development.
 
-![Coder](https://images.unsplash.com/photo-1533757153707-2a5776c8d85a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzNjUyOXwwfDF8c2VhcmNofDN8fGJvY2NvZGVyfGVufDF8fDE2MzM2MTkwOTk&ixlib=rb-1.2.1&q=80&w=1080)
+!Coder
 
 ## 🔧 Skills
-- **Programming Languages:** C++, JavaScript
-- **Web Technologies:** HTML, CSS
-- **Cloud Platforms:** AWS
-- **Tools:** Docker, Kubernetes
-- **Frameworks:** Android Development
+- **Programming Languages:** C++, JavaScript !C++ !JavaScript
+- **Web Technologies:** HTML, CSS !HTML !CSS
+- **Cloud Platforms:** AWS !AWS
+- **Tools:** Docker, Kubernetes !Docker !Kubernetes
+- **Frameworks:** Android Development !Android
 
 ## 🚀 Repositories
 Here are some of my notable projects:
-- **[FoodIndia](https://github.com/Fusionop3/FoodIndia):** A website showcasing various Indian foods built using HTML and CSS.
-- **[Simple Calculator](https://github.com/Fusionop3/SimpleCalculator):** An Android app for basic arithmetic operations.
+- **FoodIndia:** A website showcasing various Indian foods built using HTML and CSS, aimed at promoting regional cuisines.
+- **Simple Calculator:** An Android app for basic arithmetic operations, developed to enhance my skills in mobile app development.
 
 ## 🌐 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/vineet-kumar-44b724327)
+- LinkedIn
 
 ## 📈 GitHub Stats
 
 **GitHub Stats:**
 
-![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&count_private=true&hide_title=true&hide_border=true&theme=radical)
+!Vineet's GitHub Stats
 
 **Top Languages:**
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&layout=compact&hide_title=true&hide_border=true&theme=radical)
+!Languages
 
 **GitHub Streak:**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Fusionop3&hide_title=true&hide_border=true&theme=radical)
+!GitHub Streak
+
+## Fun Fact
+I love experimenting with new recipes in my free time!
