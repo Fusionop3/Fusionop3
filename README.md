@@ -2,14 +2,14 @@
 
 Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-![Welcome Image](https://via.placeholder.com/800x400) <!-- Replace with your image or GIF URL -->
+![Welcome Image](https://www.lambdatest.com/resources/images/news24.gif) <!-- Coding-related GIF -->
 
 ## 🌟 Current Focus
 
 - **Amazon Web Services**: Currently diving deep into AWS solutions and certifications.
 - **Android Development**: Developing Android apps. 
 - **Learning Docker & Kubernetes**: Expanding my skills in containerization and orchestration.
-- **DSA**:Data Structures and Algorithm.
+- **DSA**: Data Structures and Algorithms.
 
 ## 💻 Skills & Technologies
 
@@ -31,4 +31,3 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 
 ![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&theme=radical&layout=compact)
-
