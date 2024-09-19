@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I’m an engineering student with a passion for **Android Development** and **AWS**. Here's a bit more about what I'm working on and learning.
 
-![Welcome Image](https://www.lambdatest.com/resources/images/news24.gif) <!-- Coding-related GIF -->
+![Welcome Image](https://www.lambdatest.com/resources/images/news24.gif =600x300) <!-- Adjusted size for better fit -->
 
 ## 🌟 Current Focus
 
@@ -31,3 +31,4 @@ Welcome to my GitHub profile! I’m an engineering student with a passion for **
 
 ![Vineet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fusionop3&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusionop3&theme=radical&layout=compact)
+s
